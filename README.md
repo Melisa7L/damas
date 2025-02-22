@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ccbd1975-71d8-448c-a560-d3f49f414c4d)# Juego de Damas - C++ y SFML
+# Juego de Damas - C++ y SFML
 
 ¡Bienvenidos a mi proyecto de Damas! 🎮 Este es un juego interactivo y divertido desarrollado en C++ utilizando la biblioteca gráfica SFML.
 
@@ -26,7 +26,9 @@ El archivo .exe ya está listo para ejecutarse, por lo que no necesitas realizar
 Este proyecto fue desarrollado por Melisa7L (Fátima Melisa Lino) como parte de un trabajo académico. Todo el código, diseño y lógica del juego son de mi autoría.
 
 Imagenes del juego:
+
 ![image](https://github.com/user-attachments/assets/36334488-ef44-4394-bfc6-b16277f5b9cd)
+
 ![image](https://github.com/user-attachments/assets/2a5f7070-8148-483c-b75c-37b92e895acd)
 
 
