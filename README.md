@@ -24,3 +24,9 @@ Este juego fue creado como parte de un proyecto académico para una materia de l
 El archivo .exe ya está listo para ejecutarse, por lo que no necesitas realizar ninguna configuración adicional. ¡Solo descarga y juega!
 
 Este proyecto fue desarrollado por Melisa7L (Fátima Melisa Lino) como parte de un trabajo académico. Todo el código, diseño y lógica del juego son de mi autoría.
+
+Imagenes del juego:
+![image](https://github.com/user-attachments/assets/36334488-ef44-4394-bfc6-b16277f5b9cd)
+![image](https://github.com/user-attachments/assets/2a5f7070-8148-483c-b75c-37b92e895acd)
+
+
