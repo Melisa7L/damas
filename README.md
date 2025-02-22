@@ -14,7 +14,7 @@ Este juego fue creado como parte de un proyecto académico para una materia de l
 💻 Cómo Ejecutar el Juego
 *Descarga o clona este repositorio:  git clone https://github.com/Melisa7L/damas.git
 *Dirígete a la carpeta del proyecto:  cd damas
-*Ejecuta el archivo damas.exe directamente o compílalo si lo prefieres.
+*Ejecuta el archivo damas.exe directamente o compílalo si lo prefieres. Desde el siguiente enlace vas a encontrar el juego listo para instalar  https://drive.google.com/drive/u/0/folders/1HSFPOFJ1cFh4oJyvmVTVh5dYhYVzAQSd
 🛠️ Requisitos
 *Sistema Operativo: Windows
 *Dependencias:  Librería SFML (si deseas compilar el código fuente)
